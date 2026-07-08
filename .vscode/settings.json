@@ -1,0 +1,13 @@
+{
+    "files.watcherExclude": {
+        "**/env/**": true,
+        "**/__pycache__/**": true,
+        "**/.git/objects/**": true,
+        "**/.git/subtree-cache/**": true
+    },
+    "search.exclude": {
+        "**/env/**": true,
+        "**/__pycache__/**": true
+    },
+    "git.autoRepositoryDetection": true
+}
